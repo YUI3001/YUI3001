@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Ângelo!</h1>
+<h1 align="center">👋 Olá, eu sou o Angelo!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Computação+%ud83d%udcbb;Desenvolvedor+Fullstack+Em+Formação+%ud83d%ude80;Construindo+o+futuro+linha+por+linha+⚡" alt="Typing SVG" />
